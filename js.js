@@ -1,4 +1,4 @@
-let memes = ["img/единоножка.jpg"];
+let memes = ["img/единоножка.jpg", "img/Фритюр.jpg"];
 
 document.addEventListener("click", () => {
     if (Math.random() < 0.2) {
